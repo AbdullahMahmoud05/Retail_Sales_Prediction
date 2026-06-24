@@ -121,7 +121,6 @@ Several regression approaches were explored and compared before selecting the fi
 
 ![Prediction Result](assets/prediction_result.png)
 
-> Replace these screenshots with images captured from your deployed application.
 
 ---
 
